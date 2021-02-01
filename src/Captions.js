@@ -2,7 +2,7 @@ import React from "react";
 // import {captionData} from './data';
 import '../node_modules/video-react/dist/video-react.css'
 // import "node_modules/video-react/dist/video-react.css";
-import { Player, ControlBar, ClosedCaptionButton } from 'video-react';
+import { Player } from 'video-react';
 import MIB2 from './MIB2.mp4'
 import sub from './sub.en.vtt'
 export const Captions = () => {
